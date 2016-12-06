@@ -7,7 +7,7 @@ public class main {
             System.out.println(str.length());
         } catch (NullPointerException e) {
             System.out.println("NullPointerExceptionが起きた");
-            e.printStackTrace();
+         
         }
     }
 }
